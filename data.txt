@@ -1,0 +1,23 @@
+worldgeneration
+30
+Rare
+Tank 1
+Edword
+0
+0
+255
+Blue
+Bombs
+Boost
+Tank 2
+Neal
+255
+200
+0
+Orange
+Bombs
+Boost
+48
+48
+5
+5
